@@ -1,0 +1,944 @@
+
+@media (max-width: 991px) {
+
+.initdisclaim {
+    display: block;
+    height: 50px;
+    background-color: #0000ff;
+    padding: 5px 0px;
+}
+
+.initdisclaim p {
+    color: #fff;
+    text-align: center;
+    font-size: 11px;
+    line-height: 1.5em;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.navres {
+	width: 100%;
+	position: absolute;
+	z-index: 999;
+    padding: 30px 20px 20px;
+}
+	
+.copy h1 {
+    font-size: 57px;
+}
+	
+.copy p {
+    font-size: 24px;
+}	
+	
+.copy1 {
+    width: auto;
+    position: absolute;
+    left: 10vw;
+    right: 10vw;
+    margin-left: auto;
+    margin-right: auto;
+    top: 10vh;
+    text-align: center;
+}	
+	
+.copy2 {
+    width: auto;
+    position: absolute;
+    left: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 25vh;
+    text-align: left;
+    padding-right: 10vw;
+}
+
+.solicitar {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    width: auto;
+    height: 37px;
+    border-radius: 30px;
+    transition: 1s;
+    font-size: 18px;
+    padding: 0 20px;
+    margin-top: 40px;
+}
+
+.solicitar3 {
+    height: 37px;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.item:nth-child(1) {
+    background: url("../img/finet-landing-banner-2.jpg")  center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: 60%;
+}
+
+.item:nth-child(2) {
+  background: url("../img/finet-landing-banner-4.jpg")  center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: 53% -109vh;
+}
+	
+.item:nth-child(3) {
+  background: url("../img/finet-landing-banner-3.jpg")  center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: 63%;
+}	
+	
+.normal {
+    color: #666666;
+    height: auto;
+    background-image: url(../svg/finet-fig_1_landings.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}	
+	
+.central {
+    margin-top: 80px;
+    margin-bottom: 0;
+    padding: 0px 20px 0px 13px;
+}
+	
+	h1 {
+    font-size: 36px;
+    color: #0000ff;
+}
+	
+.bg1 {
+    position: relative;
+    right: 0;
+    max-width: 320px;
+    margin: 0 auto;
+}
+
+.bg2 {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    max-width: 320px;
+    margin: 0 auto;
+}
+
+.bgi3 {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    max-width: 320px;
+    margin: 0 auto;
+}
+
+.bg1 img {
+    width: 100%;
+    max-width: 85vw;
+}
+
+.bg2 img {
+    width: 100%;
+    max-width: 85vw;
+}
+
+.bgi3 img {
+    width: 100%;
+    max-width: 85vw;
+}
+	
+.central p {
+    font-size: 16px;
+}
+
+.central22 p {
+    font-size: 16px;
+}
+	
+p .leer {
+   color: #0000ff;
+   font-size: 16px;
+   font-weight: normal;
+   margin-top: 40px;
+   display: block;
+}
+	
+.seccionc {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    text-align: center;
+    top: 20%;
+}	
+	
+.seccion h1 {
+    font-size: 20px;
+    color: white;
+    margin-bottom: 40px;
+}	
+	
+.seccion h2 {
+    font-size: 44px;
+    margin-bottom: 20px;
+}	
+	
+.seccion p {
+    font-size: 16px;
+    max-width: 281px;
+    display: block;
+    margin: 0 auto;
+}	
+	
+.seccionc .solicitar {
+    margin-top: 70px;
+}
+
+.aboutflex{
+    flex-direction: column;
+}
+	
+.nopadxs {
+	padding: 0;
+}	
+	
+.contactanos img {
+	max-width: 20px;
+}	
+
+.contactanos {
+    background-color: white;
+    font-size: 13px;
+    border-radius: 30px;
+    color: black;
+    height: 34px;
+    padding: 0px 11px;
+    font-weight: 600;
+    border-color: white;
+    transition: 1s;
+}	
+	
+.textl {
+    text-align: left;
+    font-size: 16px;
+}	
+	
+.juntos {
+    height: 80px;
+}
+
+.textr{
+    text-align: center;
+}
+
+.normal2 {
+    color: #666666;
+    height: auto;
+    background-image: url(../svg/finet-fig_2_landings.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+	
+h6 {
+    color: #666666;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.sec2 {
+   background: url(../img/finet-landing-footer.jpg) no-repeat center center scroll;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+}
+
+.sec2 {
+    background: url(../img/finet-landing-footer.jpg) no-repeat -870px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}	
+
+.navres {
+	display: inline-block;
+    z-index: 1;
+}	
+	
+.burger {
+    display: block;
+    width: 60px;
+    float: right;
+    margin-top: 10px;
+	z-index: 99;
+}
+
+.imgf {
+    margin-top: 11px;
+    padding-bottom: 40px;
+}
+
+/*----------------------FOOTER ----------------------*/
+	
+footer ul {
+   list-style: none;
+   padding: 0;
+}
+
+footer li {
+   margin-bottom: 20px;
+}
+
+footer ul a {
+   color: white;
+   font-size: 13px;
+   font-weight: 600;
+   text-decoration: none;
+}
+
+footer ul a:hover {
+   color: #bebebe;
+}
+
+footer .second a {
+    color: white;
+    font-size: 13px;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+footer {
+    background-color: black;
+    padding: 40px 0;
+}
+
+.regulatorylogos {
+    justify-content: center;
+}
+
+.cnbv {
+     text-align: center;
+}
+
+.text-center{
+    margin-top: 40px;
+}
+/*----------------------FOOTER ENDS----------------------*/
+
+/* The Overlay (background) */
+.overlay {
+  /* Height & width depends on how you want to reveal the overlay (see JS below) */   
+  height: 100%;
+  width: 0%;
+	
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  background-color:white;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  transition: 0.1s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+/* Position the content inside the overlay */
+.overlay-content {
+    position: relative;
+    top: 12%;
+    width: 100%; /* 100% width */
+    text-align: center; /* Centered text/links */
+    margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+
+/* The navigation links inside the overlay */
+.overlay a {
+    padding: 13px;
+    text-decoration: none;
+    font-size: 21px;
+    color: #666666;
+    display: block;
+    transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+/* Position the close button (top right corner) */
+.overlay .closebtn {
+    position: absolute;
+    top: -20px;
+    right: 45px;
+    font-size: 60px;
+    z-index: 9999;
+}
+	
+.btnxs {
+    background-color: #0000ff;
+    color: white;
+    border: 0;
+    border-radius: 22px;
+    padding: 7px;
+    font-size: 17px;
+    margin-top: 28px;
+}
+	
+.make {
+    color: #0000ff;
+    font-family: "BlackerProDisplayBold";
+    font-size: 23px;
+    margin-top: 34px;
+}
+	
+.makef {
+    color: #ffffff;
+    font-family: "BlackerProDisplayBold";
+    font-size: 17px;
+    margin-top: 11px;
+    margin-bottom: 40px;
+}
+	
+.cirtxt {
+    line-height: 34px;
+    font-size: 30px;
+}	
+
+.cir {
+    position: absolute;
+    width: 165%;
+    height: 120%;
+    border: 1px solid white;
+    border-radius: 50%;
+    right: -90%;
+    top: 200px;
+    font-size: 46px;
+	pointer-events:none
+}	
+
+.copy3 {
+    width: auto;
+    position: absolute;
+    left: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 200px;
+    text-align: left;
+    top: 36%;
+}	
+	
+.abs1 {
+    height: 300px;
+    width: auto;
+    position: absolute;
+    margin: 0 auto;
+    display: block;
+    left: 0;
+    right: 0;
+    top: 40%;
+}
+
+.prueba {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: initial;
+    padding-left: 113px;
+    margin-bottom: -15px;
+}
+
+.textc1 {
+    font-family: "BlackerProDisplayBold";
+    color: white;
+    position: absolute;
+    left: 228px;
+    top: 127px;
+    text-align: left;
+    font-size: 6vw;
+}
+
+.textc2 {
+    font-family: "BlackerProDisplayBold";
+    color: white;
+    position: absolute;
+    left: 178px;
+    top: 200px;
+    text-align: left;
+    font-size: 6vw;
+}
+
+.textc3 {
+    font-family: "BlackerProDisplayBold";
+    color: white;
+    position: absolute;
+    left: 148px;
+    top: 277px;
+    text-align: left;
+    font-size: 6vw;
+    width: 140px;
+}
+
+.textc1 span, .textc2 span, .textc3 span {
+    font-size: 3vw;
+}
+
+	
+/*
+.prueba {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: initial;
+}
+	
+.textc1 {
+    font-family: "BlackerProDisplayBold";
+    color: white;
+    position: absolute;
+    left: 125px;
+    top: 127px;
+    text-align: left;	
+    font-size: 6vw;
+	}
+
+.textc2 {
+    font-family: "BlackerProDisplayBold";
+    color: white;
+    position: absolute;
+    left: 70px;
+    top: 207px;
+    text-align: left;			
+    font-size: 6vw;
+}
+	
+.textc3 {
+    font-family: "BlackerProDisplayBold";
+    color: white;
+    position: absolute;
+    left: 40px;
+    top: 291px;
+    text-align: left;		
+    font-size: 6vw;
+}
+	
+.textc1 span, .textc2 span, .textc3 span {
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    margin-bottom: auto;
+    width: 100%;
+    line-height: 1em;
+    margin-top: 2px;
+}
+*/
+
+.sec5 h5 {
+    font-size: 8vw;
+    color: white;
+    font-family: "BlackerProDisplayBold";
+}	
+	
+.btnxs a {
+	color: white;
+}
+	
+.normal3 {
+    color: #666666;
+    height: auto;
+    background-image: url(../svg/finet-fig_1_prestamoss.svg);
+    background-repeat: no-repeat;
+    background-position: 80%;
+}	
+	
+.bgi3 {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    width: 320px;
+}
+
+.h1l h1 {
+    text-align: center;
+}
+
+.inf {
+    font-size: 16px;
+}
+
+.inf h1 {
+    margin-bottom: 40px;
+}
+	
+.inf .ul1 {
+    margin-left: 20px;
+}
+
+.inf ul li {
+    margin-bottom: 20px;
+}
+
+.inf ul li img {
+    margin-right: 10px;
+}
+    
+.inf ul {
+    list-style: none;
+    color: #0000ff;
+    padding: 0;
+    font-size: 16px;
+}
+
+.inf .ul1 li {
+    padding-left: 0;
+}
+
+.mar2 {
+    margin-top: 40px;
+}
+
+.mar2 img{
+    margin-bottom: 40px;
+}
+
+.mar3 {
+    margin-top: 40px;
+}
+
+.inf .mar5 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.mar6 {
+    margin: -30px 0 40px;
+}
+
+hr.gray {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #bebebe;
+}
+	
+.form1 {
+    background-color: #0000ff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}	
+	
+.contwhite {
+    padding: 4px;
+    border-radius: 20px;
+}	
+	
+.form1 .l2 {
+    color: #0000ff;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: left;
+    display: block;
+}	
+	
+.abs1 h2 {
+    font-size: 11vw;
+    color: white;
+    text-align: center;
+    font-family: "BlackerProDisplayBold";
+}
+	
+.sec6 .copy3 h5 {
+    font-size: 11vw;
+    font-weight: 600;
+    text-align: center;
+    display: block;
+    width: 100%;
+    margin-bottom: 40px;
+	font-family: "BlackerProDisplayBold";
+}	
+	
+	.sec6 .solicitar {
+		margin: 0 auto;
+		display: block;
+	}	
+	
+.formula p span {
+    font-weight: 300;
+    color: #4d4d4d;
+    font-size: 36px;
+}	
+	
+.logros {
+    height: auto;
+    height: inherit;
+}	
+	
+.logros h2 {
+    text-align: center;
+    font-size: 10vw;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    font-family: "BlackerProDisplayBold";
+}	
+	
+.logrosi1 {
+	width: 49%;
+	display: inline-block;	
+	text-align: center
+}	
+
+.logrosi2 {
+	width: 49%;
+	height: 300px;
+
+	display: inline-block;	
+	text-align: center
+}		
+
+.cont100 {
+	width: 100%;
+    display: inline-flex;
+}
+	
+.contelogro1 , .contelogro2 {
+    height: 81px;
+}
+	
+.contelogro1 {
+	border-left: 1px solid #0000ff;	
+	text-align: right;
+    font-size: 3vw;
+    padding-right: 20px;
+	position: relative;
+}
+	
+.contelogro2 {
+	position: relative;
+	border-left: 1px solid #0000ff;	
+	text-align: left;
+    font-size: 3vw;
+    padding-left: 20px;		
+}
+	
+.logros {
+    height:inherit;
+    margin-bottom: 0;
+}	
+	
+.logroscont {
+    background: url(../img/finet-sumate-img1.jpg) no-repeat bottom center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: inherit;
+}	
+	
+.cirxs {
+    width: 15px;
+    height: 15px;
+    background-color: #0000ff;
+    position: absolute;
+    right: -8px;
+    border-radius: 22px;
+    top: 10px;
+}	
+	
+.cirxs2 {
+    width: 15px;
+    height: 15px;
+    background-color: #0000ff;
+    position: absolute;
+    left: -8px;
+    border-radius: 22px;
+    top: 10px;
+}
+
+.sec7 h3 {
+	margin-top: 20px;
+    font-size: 12px;
+}	
+	
+.bg8 {
+    display: none;
+}
+	
+.solicitar2 {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    width: 70%;
+    height: 34px;
+    border-radius: 30px;
+    transition: 1s;
+    font-size: 13px;
+    margin-top: 40px;
+    margin-right: 0;
+}
+	
+.sec4 {
+    background: url(../img/finet-nosotros-footer.jpg);
+	background-position: -580px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    color: white;
+}	
+
+.faqs h2 {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}	
+	
+.panel-title a {
+    display: block;
+    color: #fff;
+    padding: 16px 0 0 0px;
+    position: relative;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+    padding-bottom: 40px;
+}	
+	
+.panel-group .panel-heading + .panel-collapse > .panel-body, .panel-group .panel-heading + .panel-collapse > .list-group {
+    border-top: 1px solid #ddd;
+    background-color: transparent;
+    text-align: left;
+    padding-left: 20px;
+    font-size: 14px;
+}	
+	
+.panel-title a {
+    display: block;
+    color: #fff;
+    padding: 16px 60px 0 0px;
+    position: relative;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+    padding-bottom: 20px;
+}	
+	
+.contacto h2 {
+    margin-top: 160px;
+    margin-bottom: 0;
+}	
+	
+.mar9 {
+	top:20%
+}	
+	
+.ventana {
+    background-color: white;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px 10px;
+}	
+	
+.ventanaclose {
+    width: 300px;
+    background-color: black;
+    margin: 0 auto;
+    text-align: right;
+}
+
+.btnc {
+    padding: 0;
+}
+	
+.ventana h1 {
+    text-align: center;
+    font-size: 22px;
+    margin: 10px auto 20px;
+}
+
+.ventana li {
+    margin-top: 0.7em;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.5em;
+}
+
+.modalw {
+    overflow: auto;
+}	
+	
+.ul1{
+    padding: 0 30px
+}
+
+.ventana .ul1 {
+    color: black;
+    font-size: 14px;
+    list-style: circle;
+    list-style-image: url(../svg/check.svg);
+    background-size: 19px;
+}
+	
+.btnventana {
+    background-color: #0000ff;
+    color: white;
+    margin: 0 auto;
+    height: 37px;
+    width: 80%;
+    border: none;
+    border-radius: 42px;
+    display: block;
+    margin-top: 40px;
+}
+
+.sub {
+    margin-top: 40px;
+    padding: 0 20px;
+}
+
+.abs1 h3 {
+    font-size: 24px;
+    padding: 0 20px;
+}
+
+.cookies {
+    display: block;
+    width: 100%;
+    padding: 150px 10vw;
+}
+
+}
+
+@media (max-width: 1199px) {
+	
+.bg8 img {
+    max-width: 1040px;
+}	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
